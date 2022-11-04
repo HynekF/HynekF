@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hynek</h1>
+<h1 align="center">Welcome 👋 at Hynek's Workroom</h1>
 <h3 align="center">A passionate Solutions Architect located in Switzerland</h3>
 
 - 🔭 I’m currently working on **Artificial Pets**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Hynek.Frauenberg@gmail.com**
 
-- ⚡ Fun fact **Outdoor endurance sports are relax for me.**
+- ⚡ Fun fact **Outdoor endurance sports are relax during off-screen time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
